@@ -1,0 +1,15 @@
+C:\Users\tyose\OneDrive\Документы\csharp\task00\bin\Debug\net6.0\task00.exe
+C:\Users\tyose\OneDrive\Документы\csharp\task00\bin\Debug\net6.0\task00.deps.json
+C:\Users\tyose\OneDrive\Документы\csharp\task00\bin\Debug\net6.0\task00.runtimeconfig.json
+C:\Users\tyose\OneDrive\Документы\csharp\task00\bin\Debug\net6.0\task00.dll
+C:\Users\tyose\OneDrive\Документы\csharp\task00\bin\Debug\net6.0\task00.pdb
+C:\Users\tyose\OneDrive\Документы\csharp\task00\obj\Debug\net6.0\task00.csproj.AssemblyReference.cache
+C:\Users\tyose\OneDrive\Документы\csharp\task00\obj\Debug\net6.0\task00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyose\OneDrive\Документы\csharp\task00\obj\Debug\net6.0\task00.AssemblyInfoInputs.cache
+C:\Users\tyose\OneDrive\Документы\csharp\task00\obj\Debug\net6.0\task00.AssemblyInfo.cs
+C:\Users\tyose\OneDrive\Документы\csharp\task00\obj\Debug\net6.0\task00.csproj.CoreCompileInputs.cache
+C:\Users\tyose\OneDrive\Документы\csharp\task00\obj\Debug\net6.0\task00.dll
+C:\Users\tyose\OneDrive\Документы\csharp\task00\obj\Debug\net6.0\refint\task00.dll
+C:\Users\tyose\OneDrive\Документы\csharp\task00\obj\Debug\net6.0\task00.pdb
+C:\Users\tyose\OneDrive\Документы\csharp\task00\obj\Debug\net6.0\task00.genruntimeconfig.cache
+C:\Users\tyose\OneDrive\Документы\csharp\task00\obj\Debug\net6.0\ref\task00.dll
