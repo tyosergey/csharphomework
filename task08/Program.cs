@@ -5,15 +5,20 @@
 
 System.Console.WriteLine("Enter number: ");
 int number = Convert.ToInt32(Console.ReadLine());
-int start = 1;
+// int start = 1;
 
-do
+// // do
+// // {
+// //     System.Console.Write(start);
+// //     start += 1;
+// //     if (start != number + 1)
+// //     {
+// //         System.Console.Write("    ");
+// //     }
+// // }
+// // while (start != number + 1);
+
+for (int i = 2; i < number; i += 2)
 {
-    System.Console.Write(start);
-    start += 1;
-    if (start != number + 1)
-    {
-        System.Console.Write("    ");
-    }
+    System.Console.WriteLine(i + "\t");
 }
-while (start != number + 1);
