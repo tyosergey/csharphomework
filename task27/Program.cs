@@ -9,6 +9,7 @@ Console.Clear();
 
 int SumNumber(int number)
 {
+    number = Math.Abs(number);
     int result = 0;
 
     for (int i = number; i > 0; i /= 10)
@@ -19,5 +20,5 @@ int SumNumber(int number)
     return result;
 }
 
-int userResult = SumNumber(468);
+int userResult = SumNumber(-1234);
 System.Console.WriteLine(userResult);

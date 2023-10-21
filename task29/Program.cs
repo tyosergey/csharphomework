@@ -4,31 +4,26 @@
 6, 1, 33 -> [6, 1, 33]
 */
 
-Console.Clear();
-
-int[] RandomNumber()
+int[] CreateArray(int size, int startValue, int endValue)
 {
-    int[] array = new int[8];
+    int[] array = new int[size];
+    var random = new Random();
+
     for (int i = 0; i < array.Length; i++)
     {
-        array[i] = new Random().Next(1, 100);
+        array[i] = random.Next(startValue, endValue);
     }
+
     return array;
 }
 
 void PrintArray(int[] arr)
 {
-    System.Console.Write("[");
-    for (int i = 0; i < arr.Length; i++)
+    foreach (int i in arr)
     {
-        System.Console.Write(arr[i]);
-        if (i < arr.Length - 1)
-        {
-            System.Console.Write(", ");
-        }
+        System.Console.Write(i + "  ");
     }
-    System.Console.WriteLine("]");
-
 }
 
-PrintArray(RandomNumber());
+int[] array = CreateArray(8, -10, 11);
+PrintArray(array);
