@@ -1,39 +1,50 @@
 ﻿/*
-37. Напишите программу, которая находит сумму элементов с нечетными индексами
-в одномерном массиве целых чисел и выводит результат на экран.
+37. Найдите произведение пар чисел в одномерном массиве.
+Парой считаем первый и последний элемент, второй и предпоследний и т.д.
+Результат запишите в новом массиве.
+[1 2 3 4 5] -> 5 8 3
+[6 7 3 6] -> 36 21
 */
 
-Console.Clear();
-
-int[] array = new int[] { 18, 76, 11 };
-
-void SumOddElements(int[] array)
+int[] CreateArray(int size, int min, int max)
 {
-    int sum = 0;
-    for (int i = 0; i < array.Length; i++)
+    var random = new Random();
+    int[] arr = new int[size];
+
+    for (int i = 0; i < size; i++)
     {
-        if (i % 2 != 0)
-        {
-            sum += array[i];
-        }    
+        arr[i] = random.Next(min, max);
     }
-    System.Console.WriteLine(sum);
+    return arr;
 }
 
-void PrintArray(int[] array)
+void Output(int[] arr)
 {
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < arr.Length; i++)
     {
-        System.Console.Write(array[i]);
-        
-        if (i < array.Length - 1)
+        Console.Write(arr[i] + " ");
+    }
+}
+
+int[] MultArray(int[] array)
+{
+    int[] result = new int[array.Length - array.Length / 2];
+    int temp = 0;
+    for (int i = 0; i < array.Length - array.Length / 2; i++)
+    {
+        if (i == array.Length - 1 - i)
         {
-            System.Console.Write("\t");
+            result[i] = array[i];
+            continue;
         }
+        temp = array[i] * array[array.Length - 1 - i];
+        result[i] = temp;
     }
+    return result;
 }
 
-PrintArray(array);
+int[] array = CreateArray(7, 1, 5);
+Output(array);
 System.Console.WriteLine();
-System.Console.Write("Сумма нечётных элементов: ");
-SumOddElements(array);
+int[] array2 = MultArray(array);
+Output(array2);

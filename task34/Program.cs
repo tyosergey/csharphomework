@@ -7,7 +7,7 @@ Console.Clear();
 
 int[] CreateArray()
 {
-    int[] array = new int[5];
+    int[] array = new int[8];
     for (int i = 0; i < array.Length; i++)
     {
         array[i] = new Random().Next(100, 501);
@@ -23,7 +23,7 @@ void CountEvenElements(int[] arr)
     {
         if (arr[i] % 2 == 0)
         {
-            count += 1;
+            count++;
         }
     }
 
@@ -35,7 +35,7 @@ void PrintArray(int[] arr)
     for (int i = 0; i < arr.Length; i++)
     {
         System.Console.Write(arr[i]);
-        
+
         if (i < arr.Length - 1)
         {
             System.Console.Write("\t");
