@@ -1,0 +1,14 @@
+C:\Users\tyose\OneDrive\Документы\csharp\task45\obj\Debug\net7.0\task45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyose\OneDrive\Документы\csharp\task45\obj\Debug\net7.0\task45.AssemblyInfoInputs.cache
+C:\Users\tyose\OneDrive\Документы\csharp\task45\obj\Debug\net7.0\task45.AssemblyInfo.cs
+C:\Users\tyose\OneDrive\Документы\csharp\task45\obj\Debug\net7.0\task45.csproj.CoreCompileInputs.cache
+C:\Users\tyose\OneDrive\Документы\csharp\task45\bin\Debug\net7.0\task45.exe
+C:\Users\tyose\OneDrive\Документы\csharp\task45\bin\Debug\net7.0\task45.deps.json
+C:\Users\tyose\OneDrive\Документы\csharp\task45\bin\Debug\net7.0\task45.runtimeconfig.json
+C:\Users\tyose\OneDrive\Документы\csharp\task45\bin\Debug\net7.0\task45.dll
+C:\Users\tyose\OneDrive\Документы\csharp\task45\bin\Debug\net7.0\task45.pdb
+C:\Users\tyose\OneDrive\Документы\csharp\task45\obj\Debug\net7.0\task45.dll
+C:\Users\tyose\OneDrive\Документы\csharp\task45\obj\Debug\net7.0\refint\task45.dll
+C:\Users\tyose\OneDrive\Документы\csharp\task45\obj\Debug\net7.0\task45.pdb
+C:\Users\tyose\OneDrive\Документы\csharp\task45\obj\Debug\net7.0\task45.genruntimeconfig.cache
+C:\Users\tyose\OneDrive\Документы\csharp\task45\obj\Debug\net7.0\ref\task45.dll
