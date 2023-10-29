@@ -1,0 +1,14 @@
+C:\Users\tyose\OneDrive\Документы\csharp\task52\bin\Debug\net7.0\task52.exe
+C:\Users\tyose\OneDrive\Документы\csharp\task52\bin\Debug\net7.0\task52.deps.json
+C:\Users\tyose\OneDrive\Документы\csharp\task52\bin\Debug\net7.0\task52.runtimeconfig.json
+C:\Users\tyose\OneDrive\Документы\csharp\task52\bin\Debug\net7.0\task52.dll
+C:\Users\tyose\OneDrive\Документы\csharp\task52\bin\Debug\net7.0\task52.pdb
+C:\Users\tyose\OneDrive\Документы\csharp\task52\obj\Debug\net7.0\task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyose\OneDrive\Документы\csharp\task52\obj\Debug\net7.0\task52.AssemblyInfoInputs.cache
+C:\Users\tyose\OneDrive\Документы\csharp\task52\obj\Debug\net7.0\task52.AssemblyInfo.cs
+C:\Users\tyose\OneDrive\Документы\csharp\task52\obj\Debug\net7.0\task52.csproj.CoreCompileInputs.cache
+C:\Users\tyose\OneDrive\Документы\csharp\task52\obj\Debug\net7.0\task52.dll
+C:\Users\tyose\OneDrive\Документы\csharp\task52\obj\Debug\net7.0\refint\task52.dll
+C:\Users\tyose\OneDrive\Документы\csharp\task52\obj\Debug\net7.0\task52.pdb
+C:\Users\tyose\OneDrive\Документы\csharp\task52\obj\Debug\net7.0\task52.genruntimeconfig.cache
+C:\Users\tyose\OneDrive\Документы\csharp\task52\obj\Debug\net7.0\ref\task52.dll

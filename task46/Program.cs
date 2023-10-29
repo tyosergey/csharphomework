@@ -1,4 +1,8 @@
-﻿int[,] CreateArray(int row, int column)
+﻿/*
+46. Задайте двумерный массив размером m×n, заполненный случайными целыми числами.
+*/
+
+int[,] CreateArray(int row, int column)
 {
     int[,] array = new int[row, column];
     for (int i = 0; i < array.GetLength(0); i++)
