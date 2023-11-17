@@ -1,0 +1,14 @@
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task65\bin\Debug\net7.0\task65.exe
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task65\bin\Debug\net7.0\task65.deps.json
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task65\bin\Debug\net7.0\task65.runtimeconfig.json
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task65\bin\Debug\net7.0\task65.dll
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task65\bin\Debug\net7.0\task65.pdb
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task65\obj\Debug\net7.0\task65.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task65\obj\Debug\net7.0\task65.AssemblyInfoInputs.cache
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task65\obj\Debug\net7.0\task65.AssemblyInfo.cs
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task65\obj\Debug\net7.0\task65.csproj.CoreCompileInputs.cache
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task65\obj\Debug\net7.0\task65.dll
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task65\obj\Debug\net7.0\refint\task65.dll
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task65\obj\Debug\net7.0\task65.pdb
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task65\obj\Debug\net7.0\task65.genruntimeconfig.cache
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task65\obj\Debug\net7.0\ref\task65.dll

@@ -1,0 +1,14 @@
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task57\obj\Debug\net7.0\task57.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task57\obj\Debug\net7.0\task57.AssemblyInfoInputs.cache
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task57\obj\Debug\net7.0\task57.AssemblyInfo.cs
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task57\obj\Debug\net7.0\task57.csproj.CoreCompileInputs.cache
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task57\bin\Debug\net7.0\task57.exe
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task57\bin\Debug\net7.0\task57.deps.json
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task57\bin\Debug\net7.0\task57.runtimeconfig.json
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task57\bin\Debug\net7.0\task57.dll
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task57\bin\Debug\net7.0\task57.pdb
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task57\obj\Debug\net7.0\task57.dll
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task57\obj\Debug\net7.0\refint\task57.dll
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task57\obj\Debug\net7.0\task57.pdb
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task57\obj\Debug\net7.0\task57.genruntimeconfig.cache
+C:\Users\tyose\OneDrive\Рабочий стол\csharp\csharphomework\task57\obj\Debug\net7.0\ref\task57.dll
